@@ -16,7 +16,7 @@ python main.py
 ```
 
 ## How to use
-1. Set **Rows/Cols** and click **Apply Grid Size**.
+1. Set **Rows/Cols** and click **Apply Grid Size** now i added tha rows and columns must be greater than 2 and less than 30 (but u can change it in the main file at main_gird func).
 2. Choose a **click mode**: Wall (default), Set Start, or Set Goal, then
    click cells on the grid to place them.
 3. Optionally click **Generate Random Maze** with a chosen wall density (%).
